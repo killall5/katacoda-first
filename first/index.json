@@ -24,9 +24,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "docker-swarm"
+    "imageid": "bash"
   }
 }
