@@ -24,9 +24,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
-    "imageid": "python"
+    "imageid": "ansible"
   }
 }
