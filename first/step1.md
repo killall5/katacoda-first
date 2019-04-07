@@ -1,3 +1,4 @@
-First IP is [[HOST_IP]]
+First IP is ?
 
-`ping [[HOST_IP]]`{{execute HOST2}}
+
+`echo [[HOST_IP]] [[HOST1_IP]] [[HOST2_IP]]`{{execute HOST2}}
